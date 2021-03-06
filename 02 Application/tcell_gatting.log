@@ -1,0 +1,51 @@
+2021-02-12 14:24:30,572 - INFO -  -- Gating Drain fluid T cells using T cell gating strategy --
+2021-02-12 14:24:37,224 - ERROR - 142-09 - Unable to solve for support numerically. Use a kernel with finite support or scale data to smaller bw.
+2021-02-12 14:24:42,181 - ERROR - 165-09 - Unable to solve for support numerically. Use a kernel with finite support or scale data to smaller bw.
+2021-02-12 14:32:15,734 - INFO -  -- Gating Drain fluid T cells using T cell gating strategy --
+2021-02-12 14:32:22,284 - ERROR - 142-09 - Unable to solve for support numerically. Use a kernel with finite support or scale data to smaller bw.
+2021-02-12 14:34:56,126 - INFO - 165-09 - gated successfully!
+2021-02-12 14:41:46,300 - INFO - 175-09 - gated successfully!
+2021-02-12 15:01:44,398 - INFO - 209-03 - gated successfully!
+2021-02-12 15:02:11,958 - ERROR - 210-14 - Unable to solve for support numerically. Use a kernel with finite support or scale data to smaller bw.
+2021-02-12 15:04:27,936 - INFO - 237-06 - gated successfully!
+2021-02-12 15:04:48,579 - INFO - 239-02 - gated successfully!
+2021-02-12 15:12:48,605 - INFO - 239-04 - gated successfully!
+2021-02-12 15:21:55,508 - INFO - 251-07 - gated successfully!
+2021-02-12 15:30:01,183 - INFO - 251-08 - gated successfully!
+2021-02-12 15:31:02,054 - INFO - 254-04 - gated successfully!
+2021-02-12 15:31:23,295 - INFO - 254-05 - gated successfully!
+2021-02-12 15:42:47,603 - INFO - 255-04 - gated successfully!
+2021-02-12 15:49:32,081 - INFO - 255-05 - gated successfully!
+2021-02-12 15:56:16,149 - INFO - 264-02 - gated successfully!
+2021-02-12 16:01:55,378 - INFO - 267-01 - gated successfully!
+2021-02-12 16:02:23,196 - INFO - 267-02 - gated successfully!
+2021-02-12 16:02:59,895 - INFO - 273-01 - gated successfully!
+2021-02-12 16:03:28,687 - INFO - 276-01 - gated successfully!
+2021-02-12 16:11:34,789 - INFO - 279-03 - gated successfully!
+2021-02-12 16:26:10,147 - INFO - 286-02 - gated successfully!
+2021-02-12 16:32:42,066 - INFO - 286-03 - gated successfully!
+2021-02-12 16:41:23,910 - INFO - 286-04 - gated successfully!
+2021-02-12 16:41:23,912 - INFO - 288-02 - gated successfully!
+2021-02-12 16:44:05,518 - INFO - 294-02 - gated successfully!
+2021-02-12 16:46:13,374 - INFO - 294-03 - gated successfully!
+2021-02-12 16:52:53,879 - INFO - 298-01 - gated successfully!
+2021-02-12 16:55:36,946 - INFO - 302-01 - gated successfully!
+2021-02-12 17:06:19,583 - INFO - 305-01 - gated successfully!
+2021-02-12 17:15:02,058 - INFO - 305-02 - gated successfully!
+2021-02-12 17:23:09,339 - INFO - 305-03 - gated successfully!
+2021-02-12 17:23:28,431 - INFO - 306-01 - gated successfully!
+2021-02-12 17:30:53,624 - INFO - 307-01 - gated successfully!
+2021-02-12 17:39:52,604 - INFO - 308-02 - gated successfully!
+2021-02-12 17:45:12,068 - INFO - 308-03 - gated successfully!
+2021-02-12 17:49:20,827 - INFO - 308-04 - gated successfully!
+2021-02-12 17:55:51,426 - INFO - 310-01 - gated successfully!
+2021-02-12 18:02:07,960 - INFO - 315-01 - gated successfully!
+2021-02-12 18:10:15,717 - INFO - 315-02 - gated successfully!
+2021-02-12 18:11:00,317 - INFO - 316-01 - gated successfully!
+2021-02-12 18:14:09,224 - INFO - 318-01 - gated successfully!
+2021-02-12 18:21:53,750 - INFO - 320-01 - gated successfully!
+2021-02-12 18:24:29,703 - INFO - 322-01 - gated successfully!
+2021-02-12 18:27:03,830 - INFO - 323-01 - gated successfully!
+2021-02-12 18:34:55,045 - INFO - 324-01 - gated successfully!
+2021-02-12 18:41:02,439 - INFO - 326-01 - gated successfully!
+2021-02-12 18:41:02,441 - INFO -  -- Drain fluid T cells complete --

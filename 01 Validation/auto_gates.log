@@ -1,0 +1,29 @@
+2021-02-05 20:07:26,401 - INFO -  -- Gating PBMC T cells using T cell gating strategy --
+2021-02-05 20:11:38,190 - INFO - 165-09 - gated successfully!
+2021-02-05 20:12:24,685 - INFO - 165-09 - gates plotted to gating_outputs/
+2021-02-05 20:16:39,172 - ERROR - 175-09 - feature_names mismatch: ['FSC-A', 'FSC-H', 'SSC-A', 'SSC-H', 'SSC-W', 'CXCR3', 'CD161', 'CD3', 'CCR7', 'LD', 'Va7-2', 'CD8', 'Vd2', 'CD45RA', 'PanGD', 'CD4', 'CD27'] ['FSC-A', 'FSC-H', 'FSC-W', 'SSC-A', 'SSC-H', 'SSC-W', 'CXCR3', 'CD161', 'CD3', 'CCR7', 'LD', 'Va7-2', 'CD8', 'Vd2', 'CD45RA', 'PanGD', 'CD4', 'CD27']
+training data did not have the following fields: FSC-W
+2021-02-05 20:21:14,830 - INFO - 210-14 - gated successfully!
+2021-02-05 20:22:00,910 - INFO - 210-14 - gates plotted to gating_outputs/
+2021-02-05 20:28:03,378 - INFO - 251-07 - gated successfully!
+2021-02-05 20:28:54,497 - INFO - 251-07 - gates plotted to gating_outputs/
+2021-02-05 20:35:14,992 - INFO - 254-05 - gated successfully!
+2021-02-05 20:36:07,737 - INFO - 254-05 - gates plotted to gating_outputs/
+2021-02-05 20:42:08,187 - INFO - 255-04 - gated successfully!
+2021-02-05 20:43:04,068 - INFO - 255-04 - gates plotted to gating_outputs/
+2021-02-05 20:48:18,717 - INFO - 264-02 - gated successfully!
+2021-02-05 20:49:09,261 - INFO - 264-02 - gates plotted to gating_outputs/
+2021-02-05 20:54:30,283 - INFO - 273-01 - gated successfully!
+2021-02-05 20:55:19,389 - INFO - 273-01 - gates plotted to gating_outputs/
+2021-02-05 21:01:03,363 - INFO - 286-04 - gated successfully!
+2021-02-05 21:01:54,837 - INFO - 286-04 - gates plotted to gating_outputs/
+2021-02-05 21:06:42,978 - INFO - 294-02 - gated successfully!
+2021-02-05 21:07:28,674 - INFO - 294-02 - gates plotted to gating_outputs/
+2021-02-05 21:07:28,676 - ERROR - 305-02 - One or more of the populations generated from this gating strategy are already presented in the population tree
+2021-02-05 21:11:56,543 - INFO - 306-01 - gated successfully!
+2021-02-05 21:12:42,303 - INFO - 306-01 - gates plotted to gating_outputs/
+2021-02-05 21:19:18,441 - INFO - 310-01 - gated successfully!
+2021-02-05 21:20:13,797 - INFO - 310-01 - gates plotted to gating_outputs/
+2021-02-05 21:25:00,441 - INFO - 318-01 - gated successfully!
+2021-02-05 21:25:54,891 - INFO - 318-01 - gates plotted to gating_outputs/
+2021-02-05 21:25:54,893 - INFO -  -- PBMC T cells complete --
